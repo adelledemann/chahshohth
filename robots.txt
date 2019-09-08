@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://meeriefae.kenzie.ink/sitemap.xml
